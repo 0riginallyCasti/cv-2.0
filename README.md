@@ -1,2 +1,2 @@
-# cv-2.0
-a more updated version of my other one
+# my old outdated site: https://0riginallycasti.github.io/cv/ this is basically just my other one but with more functionality 
+
